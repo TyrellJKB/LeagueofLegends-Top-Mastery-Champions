@@ -2,7 +2,7 @@
 
 ## Overview
 
-The League of Legends Mastery Checker is a Flask web application that allows users to check their top champion masteries. It utilizes the Riot Games API to retrieve account information and champion mastery data.
+The League of Legends Mastery Checker is a Flask-based web application designed to provide users with detailed insights into their champion masteries. Leveraging the Riot Games API, this tool retrieves account information and presents the top champion masteries of a specified player. Additionally, it fetches champion details from the Data Dragon API to enhance the displayed information.
 
 ## Features
 
